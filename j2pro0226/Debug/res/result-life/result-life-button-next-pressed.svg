@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="178.46875"
+   height="36.53125"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="result-life-button-next-pressed.svg"
+   inkscape:export-filename="D:\Users\makoto\Desktop\breed\result-life\result-life-button-pressed.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="109.67812"
+     inkscape:cy="53.753089"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="-240.7991,158.26729"
+       id="guide3987" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-271.87053,158.26729"
+       id="guide3989" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.941961,-863.38393)">
+    <rect
+       style="fill:#a7ff51;fill-opacity:1;stroke:none"
+       id="rect3826-9"
+       width="168"
+       height="26.793167"
+       x="28.142862"
+       y="868.25128"
+       ry="13.396584" />
+    <rect
+       style="fill:none;stroke:#a7a7a7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 6;stroke-dashoffset:5.2"
+       id="rect3824-4"
+       width="176.54564"
+       height="34.545643"
+       x="23.870043"
+       y="864.37506"
+       ry="17.445551" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:YomogiFont;-inkscape-font-specification:YomogiFont"
+       x="49.142857"
+       y="891.87445"
+       id="text3863-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3865-8"
+         x="49.142857"
+         y="891.87445"
+         style="font-size:28px">Next Life</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:YomogiFont;-inkscape-font-specification:YomogiFont"
+       x="-186.42857"
+       y="186.42857"
+       id="text3964"
+       sodipodi:linespacing="125%"
+       transform="translate(0,572.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan3966"
+         x="-186.42857"
+         y="186.42857" /></text>
+  </g>
+</svg>
